@@ -1,0 +1,8 @@
+{
+  "name": "store-apis",
+  "version": "1.0.0",
+  "description": "An E-commerce api for small stores",
+  "main": "index.js",
+  "author": "Dropcode",
+  "license": "MIT"
+}
